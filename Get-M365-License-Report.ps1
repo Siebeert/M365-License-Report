@@ -1,6 +1,6 @@
 ###################################################################
 #                                                                 #
-# Made by SiebeScript™                                            #
+# Made by SiebeScriptâ„¢                                            #
 #                                                                 #
 # This script makes an Excel export of all M365 licenses per user #
 #                                                                 #
