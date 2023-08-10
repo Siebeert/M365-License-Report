@@ -7,7 +7,7 @@ This script exports all Microsoft 365 licenses of a customer to an Excel file.
 - The Excel is generated and saved to LicenseOverview.xlsx
 - You will have to 'Format as table' manually for each sheet
 
-# Opmerkingen
+# Remarks
 Make sure the following 2 Powershell modules are installed:
 - ImportExcel
 - MSOnline
