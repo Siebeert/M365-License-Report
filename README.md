@@ -1,11 +1,13 @@
 # M365-License-Report
-Dit script exporteert alle Microsoft 365 licenties van een klant naar Excel.
+This script exports all Microsoft 365 licenses of a customer to an Excel file.
 
 # How to
-- Voer het script uit met Powershell
-- Meld aan met de/jouw Azure administrator van de klant (werkt voor elke klant)
-- De Excel wordt gegenereerd en is terug te vinden onder C:\Temp\LicenseOverview.xlsx
-- Elk tabblad opmaken als tabel moet je zelf nog doen
+- Execute the script with Powershell
+- Log in with the/your Azure administrator for that customer (works for every customer)
+- The Excel is generated and saved to C:\Temp\LicenseOverview.xlsx
+- You will have to 'Format as table' manually for each sheet
 
 # Opmerkingen
-- Werkt enkel op computers waar Excel geïnstalleerd is
+Make sure the following 2 Powershell modules are installed:
+- ImportExcel
+- MSOnline
